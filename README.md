@@ -1,2 +1,2 @@
 # JavaScript30
-JavaScript tuts
+JavaScript30 tuts from https://javascript30.com
